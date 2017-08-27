@@ -104,6 +104,11 @@ AUTH_PASSWORD_VALIDATORS = [
     },
 ]
 
+ADMIN_SITE_HEADER = "Welcome to PFS Cloud, Please Login "
+ADMIN_SITE_TITLE = "Private Cloud Storage"''
+ADMIN_INDEX_TITLE = "My shiny new administration"
+
+
 
 # Internationalization
 # https://docs.djangoproject.com/en/1.10/topics/i18n/
